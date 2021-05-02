@@ -35,7 +35,7 @@ After calling these two you are ready to run the project.
 
 To start our server and client simultaneously we call the following script in the **root** directory of our project.
 
-For example `$~/beevision-task npm run beevision`
+For example `$ ~/beevision-task npm run beevision`
 
 If everything executes successfully we will see;
 
